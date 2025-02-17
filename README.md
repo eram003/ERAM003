@@ -1,4 +1,3 @@
-# Hello, I am Eram.
 - EEE undergrad at BRAC University <br/>
 - I sometimes work on Arduino-based projects and I have a strong interest in cybersecurity and automation.
 

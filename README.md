@@ -1,5 +1,5 @@
-- EEE undergrad at BRAC University <br/>
-- I sometimes work on Arduino-based projects and I have a strong interest in cybersecurity and automation.
+EEE undergrad at BRAC University <br/>
+I sometimes work on Arduino-based projects and I have a strong interest in cybersecurity and automation.
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
